@@ -1,9 +1,8 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+## Hi there 👋
 
-::github{repo="saicaca/fuwari"}
+I'm **ks2n**, a student at **UIT - University of Information Technology (VNU-HCM)**, majoring in **Cyber security**.
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+- 🔭 I’m currently learning **pwn / binary exploitation** in CTFs  
+- ⚡ Fun fact: sleep sleep sleep
+- 📫 Contact: vongocsinh2007@gmail.com
+- ✍️ Writeups & blog: [https://ks2n.github.io/](https://ks2n.github.io/)
