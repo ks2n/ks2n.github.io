@@ -1,6 +1,6 @@
 ---
 title: wanna-champ-2025
-published: 2025-12-8
+published: 2025-12-08
 description: 'Wanna Championship 2025'
 image: ''
 tags: [pwn, writeup, events]
