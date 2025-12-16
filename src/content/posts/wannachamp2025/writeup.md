@@ -1,5 +1,5 @@
 ---
-title: wanna-champ-2025
+title: WannaGame Championship 2025
 published: 2025-12-08
 description: 'Wanna Championship 2025'
 image: ''
@@ -688,3 +688,4 @@ p.interactive()
 
 ### Notes
 - Các `aaw` mình tìm được trong chall này khá hạn chế nên việc overwrite 1 chuỗi gadget 1 lần thì khó khả thi (sử dụng `strcpy()`), do đó mình phải phải overwrite nhiều lần.
+
