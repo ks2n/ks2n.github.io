@@ -8,9 +8,6 @@ category: 'pwn'
 draft: false 
 lang: 'en'
 ---
-
-# WannaGame Championship 2025
-
 ## Dejavu
 ### Mô tả
     Lemme outta here
@@ -688,4 +685,5 @@ p.interactive()
 
 ### Notes
 - Các `aaw` mình tìm được trong chall này khá hạn chế nên việc overwrite 1 chuỗi gadget 1 lần thì khó khả thi (sử dụng `strcpy()`), do đó mình phải phải overwrite nhiều lần.
+
 
